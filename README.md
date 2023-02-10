@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hola, bienvenido a mi perfil.
+### Soy estudiante del Tecnologico de Tijuana.
+### Estoy en la carrera de Ingenieria en Sistemas Computacionales.
 
 
 Here are some ideas to get you started:
