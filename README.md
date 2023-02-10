@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**BR14NG4MER/BR14NG4MER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+| Hora/Dia | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
+|----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| 12:00    | Simulacion                      | Simulacion                      | Simulacion                      | Simulacion                      | Simulacion                      |
+| 13:00    | Ingeniería De Software          | Ingeniería De Software          | Ingeniería De Software          | Ingeniería De Software          | Ingeniería De Software          |
+| 14:00    | Administracion De Base De Datos | Administracion De Base De Datos | Administracion De Base De Datos | Administracion De Base De Datos | Administracion De Base De Datos |
+| 15:00    | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           |
+| 16:00    | Lenguaje De Interfaz            | Lenguaje De Interfaz            | Lenguaje De Interfaz            | Lenguaje De Interfaz            |                                 |
+| 17:00    | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            |
