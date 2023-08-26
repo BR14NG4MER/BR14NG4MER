@@ -9,9 +9,9 @@
 
 | Hora/Dia | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
 |----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
-| 12:00    | Simulacion                      | Simulacion                      | Simulacion                      | Simulacion                      | Simulacion                      |
-| 13:00    | Ingeniería De Software          | Ingeniería De Software          | Ingeniería De Software          | Ingeniería De Software          | Ingeniería De Software          |
-| 14:00    | Administracion De Base De Datos | Administracion De Base De Datos | Administracion De Base De Datos | Administracion De Base De Datos | Administracion De Base De Datos |
-| 15:00    | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           |
-| 16:00    | Lenguaje De Interfaz            | Lenguaje De Interfaz            | Lenguaje De Interfaz            | Lenguaje De Interfaz            |                                 |
-| 17:00    | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            |
+| 14:00    | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           | Sistemas Programables           |
+| 15:00    | Taller de Investigacion I       | Taller de Investigacion I       | Taller de Investigacion I       | Taller de Investigacion I       | Taller de Investigacion I       |
+| 16:00    | Diseño y Evaluacion de Interfaces de Usuario | Diseño y Evaluacion de Interfaces de Usuario | Diseño y Evaluacion de Interfaces de Usuario | Diseño y Evaluacion de Interfaces de Usuario | Diseño y Evaluacion de Interfaces de Usuario |
+| 17:00    | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           | Redes De Computadoras           |
+| 18:00    | Lenguaje De Interfaz            | Lenguaje De Interfaz            | Lenguaje De Interfaz            | Lenguaje De Interfaz            |                                 |
+| 19:00    | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            | Lenguaje Y Autómatas            |
