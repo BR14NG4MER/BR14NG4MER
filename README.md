@@ -1,3 +1,4 @@
+![](Imagenes/BR14N4GMER.png)
 ### Hola, bienvenido a mi perfil.
 ### Soy estudiante del Tecnologico de Tijuana.
 ### Estoy en la carrera de Ingenieria en Sistemas Computacionales.
