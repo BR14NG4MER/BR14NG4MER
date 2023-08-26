@@ -5,9 +5,11 @@
 ### Estoy en la carrera de Ingenieria en Sistemas Computacionales.
 
 
-- 🔭 Tengo conocimientos de C#, C++.
-- 🌱 Conozco de hardware y software.
-- ⚡ Me gustan los videojuegos.
+- :octocat: Tengo conocimientos de C#, C++.
+- 🖥️ Conozco de hardware y software.
+- 🎮 Me gustan los videojuegos.
+- 🐈 Me gustan los gatos.
+- 🎵 Me gusta la musica.
 
 | Hora/Dia | Lunes                           | Martes                          | Miercoles                       | Jueves                          | Viernes                         |
 |----------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
