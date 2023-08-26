@@ -1,6 +1,7 @@
 ![](Imagenes/BR14NG4MER.png)
 ### Hola, bienvenido a mi perfil.
 ### Soy estudiante del Tecnologico de Tijuana.
+![Logo ITNM y ITT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNC0kQFHSTNz5WIuWi-3DqXsOKh5WcnopW3pSk9QT-h2fjh1LzpddhwUa95G0ccU2ung&usqp=CAU)
 ### Estoy en la carrera de Ingenieria en Sistemas Computacionales.
 
 
